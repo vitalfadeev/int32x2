@@ -1,0 +1,9 @@
+{
+	"name"        : "int32x2",
+	"authors"     : ["vf"],
+	"copyright"   : "Copyright © 2025, vf",
+	"description" : "A minimal D application.",
+	"license"     : "proprietary",
+	"versions"    : ["SSE_4_2", "int32x2_SSE_4_2"],
+	"dflags"      : [ "-mixin=mixins.d" ],
+}
